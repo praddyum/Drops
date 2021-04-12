@@ -12,15 +12,13 @@ Mobile application to water your plants from remote location. Involves integrati
 5. [Firebase Account](https://console.firebase.google.com/)
 6. [Unity 2020](https://store.unity.com/download)
 
-## Setup
-- [X] [Arduino IDE setup for NodeMCU ESP8266](IDE_Setup.md)
-- [X] [Telegram_Bot setup](Telegram_Bot_setup.md)
-- [X] [Circuit Connection](Circuit_Connection.md)
-- [X] [Sketch (Script)](Sketch.md)
+## How to Setup
+1. Download [ZIP](https://github.com/Praddy2009/Drops/blob/main/ProjectFile.zip)
+2. Open the project in Unity v 2020
+3. [Firebase Setup](https://github.com/Praddy2009/Drops/blob/main/Unity_Firebase.md)
+4. [ArduinoIDE setup](https://github.com/Praddy2009/Drops/blob/main/NodeMCU_Firebase.md). You'll find the arduino scrip inside zip.
 
 To contribute feel free to make the .md files better. Or if you wanna add your own project make a new folder and follow the same template for circuit diagram and sketch.
 
-## Credits
-
 ## Support
-
+  Support me on [Paypal](https://www.paypal.me/n00bx101)
