@@ -18,7 +18,7 @@ Mobile application to water your plants from remote location. Involves integrati
 3. [Firebase Setup](https://github.com/Praddy2009/Drops/blob/main/Unity_Firebase.md)
 4. [ArduinoIDE setup](https://github.com/Praddy2009/Drops/blob/main/NodeMCU_Firebase.md). You'll find the arduino scrip inside zip.
 
-To contribute feel free to make the .md files better. Or if you wanna add your own project make a new folder and follow the same template for circuit diagram and sketch.
+To contribute feel free to make the .md files better.
 
 ## Support
   Support me on [Paypal](https://www.paypal.me/n00bx101)
