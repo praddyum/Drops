@@ -43,7 +43,7 @@ Download the [apk](https://github.com/Praddy2009/Drops/blob/main/Build/drops.apk
 5. In order to create the APK you need to setup your own Firebase realtime database(follow step 6 and 7)
 6. [Firebase Setup](https://github.com/Praddy2009/Drops/blob/main/Unity_Firebase.md). After setting up delete any old files with same name inside the project.
 7. [ArduinoIDE setup](https://github.com/Praddy2009/Drops/blob/main/NodeMCU_Firebase.md). You'll find the arduino script inside zip.
-8. [Checkout the arduino connection]()
+8. [Checkout the arduino connection](https://github.com/Praddy2009/Drops/blob/main/connection.png)
 
 To contribute feel free to make the .md files better.
 
