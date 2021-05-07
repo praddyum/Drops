@@ -1,5 +1,4 @@
-
-![image](https://user-images.githubusercontent.com/43271546/114395949-9a4ea600-9bba-11eb-8a61-05db3d5dfae3.png)
+![image](https://user-images.githubusercontent.com/43271546/117417216-f6150200-aece-11eb-800a-0d580baab355.png)
 
 # Drops
 Mobile application to water your plants from remote location. Involves integration of Augmented Reality , IoT and firebase. Made with Unity 2020. 
